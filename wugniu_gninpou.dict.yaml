@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.01.26"
+version: "2026.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -35772,6 +35772,7 @@ import_tables:
 毀牙齒	shiu ngo tsy
 虛胖	shiu phaon
 虛心病	shiu shin bin	55
+虛㽺	shiu shiq
 虛㽺病	shiu shiq bin	55
 虛腫	shiu tson	55
 燻魚	shiun ng	55
