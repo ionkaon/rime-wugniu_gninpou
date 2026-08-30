@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2026.08.30"
+version: "2026.08.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -18757,7 +18757,6 @@ NBA	e n bi ei
 蠍子	shiq tsy
 歇擔	shiq tae
 吸上	shiq zaon
-歇上	shiq zaon
 吸上去	shiq zaon chi
 顯出	shi tshyuq
 獻出	shi tshyuq
@@ -23201,7 +23200,7 @@ NBA	e n bi ei
 歲了	syu lei
 水了	syu lei
 輸掉	syu diau
-水田	syu di
+貰鈿	syu di
 輸鈿	syu di
 世傳個	syu dzoe goq
 世傳個	syu dzoe ghoq
@@ -24829,7 +24828,6 @@ NBA	e n bi ei
 進業	cin gniq
 珍寶	cin pau
 井邊	cin pi
-浸殺	cin saq
 浸煞了	cin saq lei
 井水個	cin syu goq
 井水個	cin syu ghoq
