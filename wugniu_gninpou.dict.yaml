@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.07.24"
+version: "2026.08.30"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2677,8 +2677,6 @@ import_tables:
 銛	shi
 韱	shi
 櫼	shi
-杴	shi
-鍁	shi
 祆	shi
 挻	shi
 鯅	shi
@@ -2700,6 +2698,8 @@ import_tables:
 嘕	shi
 仚	shi
 屳	shi
+杴	shi
+鍁	shi
 死	shi
 璽	shi
 壐	shi
@@ -19215,10 +19215,10 @@ import_tables:
 鲜	shi
 𪫺	shi
 铦	shi
-锨	shi
 轩	shi
 蚬	shi
 献	shi
+锨	shi
 玺	shi
 狝	shi
 𫄳	shi
